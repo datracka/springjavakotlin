@@ -1,3 +1,3 @@
 # Spring Java Kotlin
 
-This is a WIP project to find wy is so complicated to make a java spring work use kotlin and using Visual Code as editor
+This is a WIP project to find how to make a java spring to use also kotlin with Visual Code as editor.
